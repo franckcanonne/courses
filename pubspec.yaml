@@ -1,4 +1,4 @@
-name: courses
+name: Liste
 description: Appli de courses avec SQLite
 
 # The following line prevents the package from being accidentally published to
