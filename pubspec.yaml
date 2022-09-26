@@ -38,6 +38,13 @@ dependencies:
   cupertino_icons: ^1.0.2
   sqflite: ^2.1.0
   path: ^1.8.2
+  flutter_launcher_icons: ^0.10.0
+
+flutter_icon: 
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
+
 
 dev_dependencies:
   flutter_test:
