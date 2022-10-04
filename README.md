@@ -1,7 +1,9 @@
-# courses
-
-Appli de courses avec SQLite
+#Author
+Franck Canonne
+franck.canonne@gmail.com
+https://factotum.bzh
 
 ## Getting Started
+Appli de liste de courses avec SQLite
 
 
