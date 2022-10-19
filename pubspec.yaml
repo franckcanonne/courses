@@ -1,5 +1,5 @@
-name: Liste
-description: Appli de courses avec SQLite
+name: liste
+description: Appli de liste de courses avec SQLite
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
