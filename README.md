@@ -1,9 +1,9 @@
 ## Author
 Franck Canonne
 franck.canonne@gmail.com
-https://factotum.bzh
+https://le7.net
 
 ## Getting Started
-Appli de liste de courses avec SQLite
+Appli de liste de courses partagée avec MySQL
 
 
